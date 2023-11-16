@@ -1,0 +1,6 @@
+# socket_on_api....... {"userId": 22, "deviceId": "newd12", "socketId": "46"}
+# socket_off_api.......{"deviceId": "newd12", "socketId": "2"}
+#http://192.168.1.12:8000/api/dummyAPi/ -{"deviceId": ["newd12"], "socketId": ["2"], "voltage": ["236"], "Current": ["0.05"], "Energy": ["0.01"], "Status": ["ON"], "total_time": ["0000"]}
+
+
+{"socketId": "46", "propertyId": "13"}
